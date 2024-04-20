@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Searchbar from './components/Searchbar';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+      <Searchbar/>
           Learn React
         </a>
       </header>
