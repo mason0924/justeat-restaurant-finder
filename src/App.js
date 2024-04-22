@@ -5,6 +5,7 @@ import Searchbar from './components/Searchbar';
 function App() {
   return (
     <div className="App">
+        <Searchbar/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -16,7 +17,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-      <Searchbar/>
           Learn React
         </a>
       </header>
