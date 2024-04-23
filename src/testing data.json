@@ -1,0 +1,894 @@
+[
+    {
+        "id": "166956",
+        "name": "Subway Upper Bridge St",
+        "uniqueName": "subwayupperbridgest-canterbury",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "4-5 Upper Bridge Street",
+            "postalCode": "CT1 2NA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.083385,
+                    51.27697
+                ]
+            }
+        },
+        "rating": {
+            "count": 120,
+            "starRating": 3.7,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 205,
+        "openingTimeLocal": "2024-04-24T09:10:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T09:15:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 15,
+            "rangeUpper": 30
+        },
+        "isCollection": true,
+        "isDelivery": true,
+        "isOpenNowForCollection": true,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 1.49,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 0,
+        "isTemporaryBoost": false,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/166956.gif",
+        "isTestRestaurant": false,
+        "deals": [],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Sandwiches",
+                "uniqueName": "sandwiches"
+            },
+            {
+                "name": "Lunch",
+                "uniqueName": "lunch"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T09:30:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 15,
+                    "rangeUpper": 30
+                }
+            },
+            "collection": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T09:10:00"
+                },
+                "etaMinutes": {
+                    "approximate": 7
+                }
+            }
+        }
+    },
+    {
+        "id": "92009",
+        "name": "Subway - Canterbury St. Peters",
+        "uniqueName": "subway-canterburystpeters",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "49 Saint Peter's Street",
+            "postalCode": "CT1 2BE",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.077302,
+                    51.280581
+                ]
+            }
+        },
+        "rating": {
+            "count": 880,
+            "starRating": 3.8,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 474,
+        "openingTimeLocal": "2024-04-24T09:10:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T09:20:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 20,
+            "rangeUpper": 35
+        },
+        "isCollection": true,
+        "isDelivery": true,
+        "isOpenNowForCollection": true,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 1.49,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 1,
+        "isTemporaryBoost": false,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/92009.gif",
+        "isTestRestaurant": false,
+        "deals": [
+            {
+                "description": "Cheeky Tuesday - 20% off when you spend £15",
+                "offerType": "Percent"
+            },
+            {
+                "description": "",
+                "offerType": "StampCard"
+            }
+        ],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Sandwiches",
+                "uniqueName": "sandwiches"
+            },
+            {
+                "name": "Lunch",
+                "uniqueName": "lunch"
+            },
+            {
+                "name": "Collect stamps",
+                "uniqueName": "stampcard-restaurants"
+            },
+            {
+                "name": "Deals",
+                "uniqueName": "deals"
+            },
+            {
+                "name": "Cheeky Tuesday",
+                "uniqueName": "cheekyTuesday"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T09:25:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 20,
+                    "rangeUpper": 35
+                }
+            },
+            "collection": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T09:10:00"
+                },
+                "etaMinutes": {
+                    "approximate": 10
+                }
+            }
+        }
+    },
+    {
+        "id": "186942",
+        "name": "Pizza GoGo - Canterbury",
+        "uniqueName": "pizza-gogo-canterbury",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "192 Wincheap Road",
+            "postalCode": "CT1 3RY",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.068258,
+                    51.272074
+                ]
+            }
+        },
+        "rating": {
+            "count": 144,
+            "starRating": 4.4,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 1300,
+        "openingTimeLocal": "2024-04-24T11:35:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T12:15:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 35,
+            "rangeUpper": 50
+        },
+        "isCollection": true,
+        "isDelivery": true,
+        "isOpenNowForCollection": true,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 2,
+        "minimumDeliveryValue": 12.99,
+        "defaultDisplayRank": 2,
+        "isTemporaryBoost": false,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/186942.gif",
+        "isTestRestaurant": false,
+        "deals": [],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Pizza",
+                "uniqueName": "pizza"
+            },
+            {
+                "name": "American",
+                "uniqueName": "american"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T12:15:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 35,
+                    "rangeUpper": 50
+                }
+            },
+            "collection": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T11:35:00"
+                },
+                "etaMinutes": {
+                    "approximate": 5
+                }
+            }
+        }
+    },
+    {
+        "id": "151859",
+        "name": "German Doner Kebab - Canterbury",
+        "uniqueName": "germandonerkebabcanterbury-canterbury",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "33 Saint George's Street",
+            "postalCode": "CT1 2LE",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.082884,
+                    51.277477
+                ]
+            }
+        },
+        "rating": {
+            "count": 1137,
+            "starRating": 3.9,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 154,
+        "openingTimeLocal": "2024-04-24T11:30:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T11:20:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 20,
+            "rangeUpper": 35
+        },
+        "isCollection": false,
+        "isDelivery": true,
+        "isOpenNowForCollection": false,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 1.49,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 3,
+        "isTemporaryBoost": false,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/151859.gif",
+        "isTestRestaurant": false,
+        "deals": [
+            {
+                "description": "Cheeky Tuesday - 20% off when you spend £15",
+                "offerType": "Percent"
+            },
+            {
+                "description": "",
+                "offerType": "StampCard"
+            }
+        ],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Kebab",
+                "uniqueName": "kebabs"
+            },
+            {
+                "name": "Lunch",
+                "uniqueName": "lunch"
+            },
+            {
+                "name": "Halal",
+                "uniqueName": "halal"
+            },
+            {
+                "name": "Collect stamps",
+                "uniqueName": "stampcard-restaurants"
+            },
+            {
+                "name": "Deals",
+                "uniqueName": "deals"
+            },
+            {
+                "name": "Cheeky Tuesday",
+                "uniqueName": "cheekyTuesday"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T11:30:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 20,
+                    "rangeUpper": 35
+                }
+            }
+        }
+    },
+    {
+        "id": "216819",
+        "name": "Maria's Coffee Lounge",
+        "uniqueName": "marias-coffee-lounge-canterbury-ct1",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "39 St Peter's St",
+            "postalCode": "CT1 2BQ",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.076551,
+                    51.280933
+                ]
+            }
+        },
+        "rating": {
+            "count": 15,
+            "starRating": 3.9,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 538,
+        "openingTimeLocal": "2024-04-24T11:15:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T11:35:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 25,
+            "rangeUpper": 40
+        },
+        "isCollection": true,
+        "isDelivery": true,
+        "isOpenNowForCollection": true,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 0,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 4,
+        "isTemporaryBoost": false,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/216819.gif",
+        "isTestRestaurant": false,
+        "deals": [
+            {
+                "description": "Cheeky Tuesday - 20% off when you spend £15",
+                "offerType": "Percent"
+            },
+            {
+                "description": "Free item with selected orders",
+                "offerType": "FreeItem"
+            }
+        ],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Milkshakes",
+                "uniqueName": "milkshakes"
+            },
+            {
+                "name": "Smoothies",
+                "uniqueName": "smoothies"
+            },
+            {
+                "name": "Lunch",
+                "uniqueName": "lunch"
+            },
+            {
+                "name": "Low Delivery Fee",
+                "uniqueName": "low-delivery-fee"
+            },
+            {
+                "name": "Deals",
+                "uniqueName": "deals"
+            },
+            {
+                "name": "Freebies",
+                "uniqueName": "freebies"
+            },
+            {
+                "name": "Cheeky Tuesday",
+                "uniqueName": "cheekyTuesday"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T11:35:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 25,
+                    "rangeUpper": 40
+                }
+            },
+            "collection": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T11:15:00"
+                },
+                "etaMinutes": {
+                    "approximate": 15
+                }
+            }
+        }
+    },
+    {
+        "id": "106036",
+        "name": "Subway - 118 Sturry Road",
+        "uniqueName": "subway-118sturryroadcanterbury",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "118 Sturry Road",
+            "postalCode": "CT1 1HJ",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.096764,
+                    51.288694
+                ]
+            }
+        },
+        "rating": {
+            "count": 424,
+            "starRating": 3.5,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 1437,
+        "openingTimeLocal": "2024-04-24T08:10:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T08:20:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 20,
+            "rangeUpper": 35
+        },
+        "isCollection": true,
+        "isDelivery": true,
+        "isOpenNowForCollection": true,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 1.49,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 5,
+        "isTemporaryBoost": true,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/106036.gif",
+        "isTestRestaurant": false,
+        "deals": [],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Sandwiches",
+                "uniqueName": "sandwiches"
+            },
+            {
+                "name": "Lunch",
+                "uniqueName": "lunch"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T08:25:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 20,
+                    "rangeUpper": 35
+                }
+            },
+            "collection": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T08:10:00"
+                },
+                "etaMinutes": {
+                    "approximate": 10
+                }
+            }
+        }
+    },
+    {
+        "id": "185014",
+        "name": "Pizza Express - Canterbury - Best Lane",
+        "uniqueName": "pizzaexpress-canterbury-best-lane",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "4 Best Lane, Canterbury, Kent",
+            "postalCode": "CT1 2JB",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.079504,
+                    51.280369
+                ]
+            }
+        },
+        "rating": {
+            "count": 56,
+            "starRating": 3.4,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 327,
+        "openingTimeLocal": "2024-04-23T16:30:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T12:00:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 30,
+            "rangeUpper": 45
+        },
+        "isCollection": false,
+        "isDelivery": true,
+        "isOpenNowForCollection": false,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 0,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 6,
+        "isTemporaryBoost": true,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/185014.gif",
+        "isTestRestaurant": false,
+        "deals": [
+            {
+                "description": "40% Off Pizza Favourites",
+                "offerType": "Notification"
+            },
+            {
+                "description": "Save with an exclusive meal deal",
+                "offerType": "Notification"
+            }
+        ],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Pizza",
+                "uniqueName": "pizza"
+            },
+            {
+                "name": "Italian",
+                "uniqueName": "italian"
+            },
+            {
+                "name": "Low Delivery Fee",
+                "uniqueName": "low-delivery-fee"
+            },
+            {
+                "name": "Deals",
+                "uniqueName": "deals"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-23T16:30:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 30,
+                    "rangeUpper": 45
+                }
+            }
+        }
+    },
+    {
+        "id": "214010",
+        "name": "Tortilla - Canterbury",
+        "uniqueName": "tortilla---canterbury-canterbury",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "38 High Street",
+            "postalCode": "CT1 2RY",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.079541,
+                    51.279202
+                ]
+            }
+        },
+        "rating": {
+            "count": 124,
+            "starRating": 4.5,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 278,
+        "openingTimeLocal": "2024-04-24T11:10:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T11:20:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 20,
+            "rangeUpper": 35
+        },
+        "isCollection": true,
+        "isDelivery": true,
+        "isOpenNowForCollection": true,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 0,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 7,
+        "isTemporaryBoost": true,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/214010.gif",
+        "isTestRestaurant": false,
+        "deals": [],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Mexican",
+                "uniqueName": "mexican"
+            },
+            {
+                "name": "Burritos",
+                "uniqueName": "burritos"
+            },
+            {
+                "name": "Lunch",
+                "uniqueName": "lunch"
+            },
+            {
+                "name": "Sandwiches",
+                "uniqueName": "sandwiches"
+            },
+            {
+                "name": "Low Delivery Fee",
+                "uniqueName": "low-delivery-fee"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T11:30:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 20,
+                    "rangeUpper": 35
+                }
+            },
+            "collection": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T11:10:00"
+                },
+                "etaMinutes": {
+                    "approximate": 10
+                }
+            }
+        }
+    },
+    {
+        "id": "121210",
+        "name": "McDonald's® - Canterbury High Street",
+        "uniqueName": "mcdonalds-canterburyhighstreet",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "18-20 Saint George's Street",
+            "postalCode": "CT1 2SR",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.08176,
+                    51.27762
+                ]
+            }
+        },
+        "rating": {
+            "count": 8116,
+            "starRating": 3.1,
+            "userRating": null
+        },
+        "isNew": false,
+        "driveDistanceMeters": 179,
+        "openingTimeLocal": "2024-04-24T07:20:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T11:20:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 20,
+            "rangeUpper": 35
+        },
+        "isCollection": false,
+        "isDelivery": true,
+        "isOpenNowForCollection": false,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 1.49,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 8,
+        "isTemporaryBoost": false,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/121210.gif",
+        "isTestRestaurant": false,
+        "deals": [
+            {
+                "description": "Saver Meal Deals from just £4.99, delivered only on Just Eat. T&Cs apply",
+                "offerType": "Notification"
+            }
+        ],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Burgers",
+                "uniqueName": "burgers"
+            },
+            {
+                "name": "Chicken",
+                "uniqueName": "chicken"
+            },
+            {
+                "name": "Lunch",
+                "uniqueName": "lunch"
+            },
+            {
+                "name": "Sandwiches",
+                "uniqueName": "sandwiches"
+            },
+            {
+                "name": "Deals",
+                "uniqueName": "deals"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T07:20:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 20,
+                    "rangeUpper": 35
+                }
+            }
+        }
+    },
+    {
+        "id": "241851",
+        "name": "Premier Rough Common Store",
+        "uniqueName": "premier-rough-common-store-canterbury",
+        "address": {
+            "city": "Canterbury",
+            "firstLine": "Rose Villas\n77 Rough Road",
+            "postalCode": "CT2 2DA",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    1.048028,
+                    51.291279
+                ]
+            }
+        },
+        "rating": {
+            "count": 0,
+            "starRating": 0,
+            "userRating": null
+        },
+        "isNew": true,
+        "driveDistanceMeters": 2836,
+        "openingTimeLocal": "2024-04-24T07:15:00",
+        "deliveryOpeningTimeLocal": "2024-04-23T07:25:00",
+        "deliveryEtaMinutes": {
+            "rangeLower": 25,
+            "rangeUpper": 40
+        },
+        "isCollection": true,
+        "isDelivery": true,
+        "isOpenNowForCollection": true,
+        "isOpenNowForDelivery": true,
+        "isOpenNowForPreorder": false,
+        "isTemporarilyOffline": false,
+        "deliveryCost": 0.99,
+        "minimumDeliveryValue": 0,
+        "defaultDisplayRank": 9,
+        "isTemporaryBoost": false,
+        "isPremier": false,
+        "logoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/241851.gif",
+        "isTestRestaurant": false,
+        "deals": [],
+        "tags": [],
+        "cuisines": [
+            {
+                "name": "Groceries",
+                "uniqueName": "groceries"
+            },
+            {
+                "name": "Alcohol",
+                "uniqueName": "alcohol"
+            },
+            {
+                "name": "Low Delivery Fee",
+                "uniqueName": "low-delivery-fee"
+            }
+        ],
+        "availability": {
+            "delivery": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T07:35:00"
+                },
+                "etaMinutes": {
+                    "rangeLower": 25,
+                    "rangeUpper": 40
+                }
+            },
+            "collection": {
+                "isOpen": true,
+                "canPreOrder": false,
+                "isTemporarilyOffline": false,
+                "nextAvailability": {
+                    "from": "2024-04-24T07:15:00"
+                },
+                "etaMinutes": {
+                    "approximate": 15
+                }
+            }
+        }
+    }
+]
