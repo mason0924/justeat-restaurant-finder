@@ -6,7 +6,7 @@ export default function Searchbar({ searchResults }) {
     const [postcode, setPostcode] = useState('');
     
     const fetchData = async () => {
-        if (postcode == "") {
+        if (postcode === "") {
             console.log('no input detected');
             searchResults([])
         } else {
@@ -29,8 +29,17 @@ export default function Searchbar({ searchResults }) {
 
     return (
     <div>
-      <input type="text" placeholder="Keyin your zipcode" value={postcode} onChange={handleChange}/>
-      <button onClick={fetchData}>Search</button>
+        <input 
+            className='rounded-2'
+            type="text" 
+            placeholder="Enter your postcode (UK only)" 
+            value={postcode} 
+            onChange={handleChange}
+        />
+        <button onClick={fetchData}
+            className='btn btn-primary rounded-2'
+        >Search
+        </button>
     </div>
   );
 }
