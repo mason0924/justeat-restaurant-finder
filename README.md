@@ -34,9 +34,8 @@ This project is a web application for finding restaurants using the JustEat API.
 - This project is built with React.js, so it typically doesn't require manual compilation of code during development. Tools like Babel and webpack are used behind the scenes to automatically compile JSX and ES6 code into browser-compatible JavaScript that can be run in the browser.
 
 ## Possible Improvements
-- Implement more advanced filtering options such as price range or delivery time.
-- Enhance the user interface with additional features like interactive maps or user reviews.
-- Optimize performance by caching API responses or implementing pagination for large datasets.
+- Implement more advanced filtering or sorting options such by name then filter by rating.
+- Enhance the user interface with additional features like interactive maps.
 - Improve error handling and user feedback for invalid inputs or API failures.
 - Add hover effects to change the color or make text bold for better user interaction.
 - Incorporate animated food GIF images for a more visually appealing effect.
