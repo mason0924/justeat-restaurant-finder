@@ -44,3 +44,4 @@ This project is a web application for finding restaurants using the JustEat API.
 ## References
 - I found the CORS policy solution from this [YouTube video](https://www.youtube.com/watch?v=PNtFSVU-YTI&list=PLEJukB5b5cE9L1Nw5D2VQrLVDY7uEeaht&index=54). It was really helpful for me to understand the concept, and I highly recommend it.
 - This is also a good tutorial [Youtube video](https://youtu.be/phWxA89Dy94?si=znwDHiIqM24-TM7H) for building CSS with Bootstrap.
+- I referenced the user interface with my previous project [Lunchmates](https://www.lunchmates.club/) that's also a food platform especially designed for social meetup.
